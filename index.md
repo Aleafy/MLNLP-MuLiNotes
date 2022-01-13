@@ -64,6 +64,7 @@
 | 19   | [附录： 深度学习工具](https://zh-v2.d2l.ai/chapter_appendix-tools-for-deep-learning/index.html) | [Appendix: Tools for Deep Learning](https://d2l.ai/chapter_appendix-tools-for-deep-learning/index.html) |
 
 ## 笔记
+
 | 笔记 | 讲义 | 代码 |
 | ---- | ---- | ----- |
 | [00-预告](https://aleafy.github.io/MLNLP-MuLiNotes/notes/00-%E9%A2%84%E5%91%8A.md) | [课程讲义](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/notes/00-预告.md)                                                             |                                                              |
